@@ -117,7 +117,7 @@ function left()
         player_update();
     }  
 }
-function rtght()
+function right()
 {
     if(player_x<=500){
         player_x=player_x+block_image_height;
